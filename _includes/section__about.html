@@ -1,0 +1,22 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/profile.png' | relative_url }}" alt="headshot of a man in a black shirt">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">Hi, I’m Henry</h2>
+      <p class="subtitle subtitle--light">I'm a digital product designer based in Indianapolis and working remotely.</p>
+      <p class="subtitle subtitle--light">How can I help you?</p>
+      <!-- <p class="subtitle subtitle--light">I'll help you solve business problems, more deeply understand your users, and prototype your ideas to test them with real customers.</p> -->
+
+      <a href="https://calendly.com/henrydan/do-you-need-design" class="header__cta button--fill">Get In Touch</a>
+    </div>
+  </div>
+</section>
