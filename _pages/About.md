@@ -9,7 +9,7 @@ subtitle: Who I'm not & what I'm not about
 - My name is Henry Dan
 - I'm a Digital Product Designer
 - I design **user experiences (UX)** and **user interfaces (UI)**
-- I help businesses **understand their customers** & foster communication
+- I conduct **user research** and **usability testing**
 - I became a designer to **solve problems** and make useful products
 - I'm based in Indianapolis, Indiana (EST) and working remotely
 - I have a cat named Bebe who has no regard for personal space
