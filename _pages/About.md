@@ -1,5 +1,6 @@
 ---
-title: Who I am, and who I'm not.
+title: Who I am
+subtitle: ... and who I'm not
 ---
 ![Me](/images/about/about9.jpg)
 
@@ -40,6 +41,6 @@ Design is about making useful things for real people. We are responsible for the
 
 ---
 ## Sound like someone you could work with?
-Email me at [hello@henrydan.me](mailto:hello@henrydan.me) and let's make something great, together!
+### [hello@henrydan.me](mailto:hello@henrydan.me)
 
 ---
