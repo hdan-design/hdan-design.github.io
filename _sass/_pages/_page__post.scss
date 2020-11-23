@@ -51,14 +51,19 @@
       max-width: 1140px;
       margin: 40px 0;
     }
+    img {
+      width: calc(100vw - 60px);
+      max-width: 1140px;
+      margin: 40px 0;
+    }
 
     h2 {
-      margin: 80px 0 16px;
+      margin: 40px 0 16px;
     }
 
     h3,
     h4 {
-      margin: 56px 0 16px;
+      margin: 28px 0 16px;
     }
 
     .table-wrap {
@@ -133,7 +138,7 @@
       }
 
       @include mq(laptop) {
-        margin-top: 80px;
+        margin-top: 40px;
       }
 
       ol {
@@ -179,9 +184,11 @@
     }
 
     blockquote {
+      // margin: 0 -80;
       margin: 40px 0;
       width: calc(100vw - 60px);
       max-width: 1140px;
+      // margin: auto;
 
       p {
         margin: 0;
@@ -286,15 +293,19 @@
       }
 
       h3 {
-        margin: 80px 0 12px;
+        margin: 40px 0 12px;
       }
 
       h4 {
-        margin: 80px 0 24px;
+        margin: 40px 0 24px;
+      }
+      h5 {
+        margin: 0 0 24px;
+        color: #939393;
       }
 
       blockquote {
-        margin: 64px 0;
+        margin: 30px 0;
       }
 
       table:not(.rouge-table) {
@@ -310,6 +321,11 @@
     }
   }
 }
+
+// p, h1, h2, h3, h4, h5, h6 {
+//   display: block;
+//   margin: 0 auto;
+// }
 
 .post__more {
   margin-bottom: 120px;

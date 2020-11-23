@@ -8,13 +8,14 @@
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="footer__title">
 			{{ site.data.settings.basic_settings.site_title }}
+			<p>I'm a Digital Product Designer</p>
 		</a>
 		{% endif %}
 		<div class="footer__copyright">
 			{% if site.data.settings.footer_settings.tagline %}
 			<p>{{ site.data.settings.footer_settings.tagline }}</p>
 			{% endif %}
-			<p><a href="mailto:hello@henrydan.me" target="_blank">hello@henrydan.me</a>
+			<p class="subtitle"><a href="mailto:hello@henrydan.me" target="_blank">hello@henrydan.me</a>
 			</p>
 			<!-- <p>Digital Product Designer</p> -->
 			<span class="footnote">© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>

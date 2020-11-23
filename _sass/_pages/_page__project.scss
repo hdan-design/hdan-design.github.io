@@ -13,11 +13,13 @@
   }
 
   .post__content {
+    // margin: 0 auto;
     hr {
       background-color: var(--accent);
     }
 
     blockquote {
+      // margin: 0 -15vw;
       border-left-color: var(--accent);
     }
 
