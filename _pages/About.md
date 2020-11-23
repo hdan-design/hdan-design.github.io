@@ -4,13 +4,9 @@ subtitle: Who I'm not & what I'm not about
 ---
 ## But first, who am I?
 
-- My name is **Henry Dan** and I'm a Digital Product Designer
-- I design user experiences **(UX)** and user interfaces **(UI)**
-- I also conduct **user research** and **usability testing**
-- I'm based in Indianapolis, Indiana (EST) and working **remotely**
-![Me](/images/about/about9.jpg)
+My name is Henry Dan and I'm a Digital Product Designer. I design user experiences (UX) and user interfaces (UI). I also conduct user research and usability testing. I'm currently located in Indianapolis, Indiana (EST) and working remotely.
 
----
+![Me](/images/about/about9.jpg)
 
 ## Here's what I'm not:
 
