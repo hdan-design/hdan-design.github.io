@@ -2,17 +2,13 @@
 title: Not about me
 subtitle: Who I'm not & what I'm not about
 ---
+## But first, who am I?
+
+- My name is **Henry Dan** and I'm a Digital Product Designer
+- I design user experiences **(UX)** and user interfaces **(UI)**
+- I also conduct **user research** and **usability testing**
+- I'm based in Indianapolis, Indiana (EST) and working **remotely**
 ![Me](/images/about/about9.jpg)
-
-## Hi, again
-
-- My name is Henry Dan
-- I'm a Digital Product Designer
-- I design **user experiences (UX)** and **user interfaces (UI)**
-- I conduct **user research** and **usability testing**
-- I became a designer to **solve problems** and make useful products
-- I'm based in Indianapolis, Indiana (EST) and working remotely
-- I have a cat named Bebe who has no regard for personal space
 
 ---
 
@@ -32,13 +28,13 @@ Problem solving can only start with the problem, not the solution. And design is
 
 ### ✋ Not designing for myself.
 
-Every decision I make is based on your goals and the needs of your customers, never personal preference. Everyone is an expert in their own context, and I strive to make sure my designs are driven by conversations with you and the people who use your product.
+I make design decisions based on research and evidence, not personal preference. My work is only successful if you and your users are happy with it, and I strive to make sure my designs are driven by real conversations and meaningful data.
 
 ### 👩‍👩‍👧‍👦 Not ignoring my impact.
 
 Design is about making useful things for real people. We are responsible for the impact of the things we create, and design has the capacity to cause problems as much as it can solve them.
 
-**Inclusion, accessibility, and user-centered design** are at the core of everything I create.
+**Inclusion, accessibility,** and **user-centered design** are at the core of everything I create.
 
 ---
 ## Sound like someone you could work with?
