@@ -8,12 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Who cares?'
+      url: '/about'
     - title: 'Projects'
       url: '/'
     - title: 'Services'
       url: '/Services'
-    - title: 'Who cares?'
-      url: '/about'
 
 footer_settings:
   logo_image: 
