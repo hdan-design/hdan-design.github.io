@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Services'
       url: '/Services'
     - title: 'Who cares?'
-      url: '/About'
+      url: '/about'
 
 footer_settings:
   logo_image: 

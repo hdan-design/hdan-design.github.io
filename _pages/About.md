@@ -1,7 +1,7 @@
 ---
 title: Who I am, and who I'm not
 ---
-![Me](/images/about/about6.jpg)
+![Me](/images/about/About6.jpg)
 
 ## My name is Henry Dan
 
