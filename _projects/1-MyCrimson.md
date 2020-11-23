@@ -17,76 +17,13 @@ gallery_images:
 ### The challenge
 College students have to navigate confusing systems of incompatible and inconsistent apps to manage their academics.
 
+Indiana University wanted to know what a potential solution would look like that would allow them to continue to use low cost third party apps without hurting functionality of the system.
+
 ### Our solution
 A simple dashboard to connect all university resources and help students track and manage tasks across all apps.
 
 ### My role
 I conducted user research, and designed the UX and UI of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
-
----
-## The problem space
-
-### Context
-College students have to navigate confusing systems of incompatible and inconsistent apps to manage their academics.
-
-Indiana University wanted to know what a potential solution would look like that would allow them to continue to use low cost third party apps without hurting functionality of the system.
-
-### Research
-
-![Research Post-its](/images/projects/mycrimson/research1.jpg)
-
-We knew students would be our primary target audience, but we also knew that our solution would have to take into account the needs of the faculty and administrators in order to succeed.
-
-We conducted interviews with students and sent out surveys to hear students needs and frustrations. We also had 1 on 1 interviews with university faculty to better understand how our solution could address their needs as well.
-
-**Our Goals**
-
-- Understand specific student frustrations
-- Explore how university web tools impact faculty
-- Identify opportunities for the most impact
-- Better understand the background & constraints of existing systems
-
-### Personas
-
-#### Primary - Students
-
-> "I'm just trying find what I need and get my work done."
-
-University students are the primary users of this product, so we have to make sure we understand how they handle their academic now and what opportunities there are to help them.
-
-###### Goals:
-- Find the academic information and resources when they need them
-- Understand what tasks they have to complete, and when they're due
-
-###### Frustrations:
-- Friction navigating between multiple tools that don't work together
-- Confusion dealing with inconsistent user experiences
-- Unable to find answers when they have issues
-
-#### Secondary - Advisors
-
-> "I want my students to be more self-sufficient, so I can focus on helping them with the big problems."
-
-Advisors are one of the main destinations for students with questions about university web tools. These apps aren't their expertise, and they have much bigger problems to help students with. Allowing students to be more self sufficient will let them focus their time and efforts.
-
-###### Goals:
-- To find the academic information and resources they're looking for
-- To clearly understand what tasks they have to complete, and when they need to do them
-
-###### Frustrations:
-- Having to jump between multiple tools that don't work together
-- Dealing with inconsistent user experiences
-
-### Constraints
-
-- Must accommodate an ever-growing ecosystem of incompatible third party software that the university purchases, and first party software built and maintained in-house
-- Has to be low maintenance for the university for it to be feasible over the long-term
-
-### Core goals
-
-- Make it easy for students to figure out what tasks they need to complete
-- Provide clear, quick, and concise answers to student questions
-- Empower students to be more proactive in managing their academics
 
 ---
 ## The solution
@@ -142,6 +79,68 @@ Students receive useful updates and notifications from MyCrimson about what they
 ### Works on every device
 
 While we can't make every academic app responsive, we can make sure that students have one place to manage their academics that they can access across all of their devices.
+
+---
+## The process
+
+### Research
+
+![Research Post-its](/images/projects/mycrimson/research1.jpg)
+
+We knew students would be our primary target audience, but we also knew that our solution would have to take into account the needs of the faculty and administrators in order to succeed.
+
+We conducted interviews with students and sent out surveys to hear students needs and frustrations. We also had 1 on 1 interviews with university faculty to better understand how our solution could address their needs as well.
+
+**Our Goals**
+
+- Understand specific student frustrations
+- Explore how university web tools impact faculty
+- Identify opportunities for the most impact
+- Better understand the background & constraints of existing systems
+
+### Personas
+
+#### 🎓 University Students
+##### Primary
+
+Students are the main users of this product, so we have to make sure we understand how they handle their academic now and what opportunities there are to help them.
+
+> "I'm just trying find what I need and get my work done."
+
+###### Goals:
+- Find the academic information and resources when they need them
+- Understand what tasks they have to complete, and when they're due
+
+###### Frustrations:
+- Friction navigating between multiple tools that don't work together
+- Confusion dealing with inconsistent user experiences
+- Unable to find answers when they have issues
+
+#### 👩‍🏫 Academic Advisors
+##### Secondary
+
+Advisors are one of the main destinations for students with questions about university web tools. These apps aren't their expertise, and they have much bigger problems to help students with. Allowing students to be more self sufficient will let them focus their time and efforts.
+
+> "I want my students to be more self-sufficient, so I can focus on helping them with the big problems."
+
+###### Goals:
+- To find the academic information and resources they're looking for
+- To clearly understand what tasks they have to complete, and when they need to do them
+
+###### Frustrations:
+- Having to jump between multiple tools that don't work together
+- Dealing with inconsistent user experiences
+
+### Constraints
+
+- Must accommodate an ever-growing ecosystem of incompatible third party software that the university purchases, and first party software built and maintained in-house
+- Has to be low maintenance for the university for it to be feasible over the long-term
+
+### Core goals
+
+- Make it easy for students to figure out what tasks they need to complete
+- Provide clear, quick, and concise answers to student questions
+- Empower students to be more proactive in managing their academics
 
 ### The experience
 
