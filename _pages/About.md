@@ -1,6 +1,6 @@
 ---
-title: Who I am
-subtitle: ... and who I'm not
+title: Not about me
+subtitle: Who I'm not & what I'm not about
 ---
 ![Me](/images/about/about9.jpg)
 
