@@ -4,10 +4,11 @@ subtitle: Who I'm not & what I'm not about
 ---
 ![Me](/images/about/about9.jpg)
 
-## My name is Henry Dan
+## Hi, again
 
+- My name is Henry Dan
 - I'm a Digital Product Designer
-- I design **user experiences** and **user interfaces** for apps and websites
+- I design **user experiences (UX)** and **user interfaces (UI)**
 - I help businesses **understand their customers** & foster communication
 - I became a designer to **solve problems** and make useful products
 - I'm based in Indianapolis, Indiana (EST) and working remotely
