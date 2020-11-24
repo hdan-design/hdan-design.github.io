@@ -12,7 +12,7 @@ menu_settings:
       url: '/'
     - title: 'Services'
       url: '/Services'
-    - title: 'not about me'
+    - title: 'Who cares?'
       url: '/about'
 
 footer_settings:
@@ -21,17 +21,17 @@ footer_settings:
   # tagline: Henry Dan - Digital Product Designer
 
 hero_settings:
-  background_image: /images/backgrounds/background-hero.svg
+  background_image: /images/backgrounds/background6.svg
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
   email_address: 'hello@henrydan.me'
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send'
+  # form_action: 'https://formspree.io/hello@jekyllthemes.io'
+  # confirmation_url: '/thanks'
+  # email_subject: 'Contact form submission'
+  # send_button_text: 'Send'
 
 social_settings:
   facebook_url: ''
