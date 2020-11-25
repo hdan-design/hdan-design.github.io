@@ -3,7 +3,7 @@ title: MyCrimson
 subtitle: A simpler online experience for university students.
 date: 2019-07-24 00:00:00
 description: A research and design project focused on connecting a wide range of university web tools, allowing students to take more control over their academics.
-featured_image: mycrimson/Responsive_showcase.png
+featured_image: mycrimson/University_Students.jpg
 accent_color: '#5D4AD0'
 gallery_images:
 - mycrimson/cover4.jpg
@@ -12,27 +12,23 @@ gallery_images:
 
 > How might we help IUPUI students feel more confident and comfortable using university web tools to access important information and complete required tasks?
 
-![Students](https://upload.wikimedia.org/wikipedia/commons/c/c6/University_Students.jpg)
+### 💬 The Challenge
+University students have to navigate confusing systems of incompatible and inconsistent apps to manage their academics.
 
-### The challenge
-College students have to navigate confusing systems of incompatible and inconsistent apps to manage their academics.
-
-Indiana University wanted to know what a potential solution would look like that would allow them to continue to use low cost third party apps without hurting functionality of the system.
-
-### Our solution
+### 💡 Our Solution
 A simple dashboard to connect all university resources and help students track and manage tasks across all apps.
 
-### My role
-I conducted user research, and designed the UX and UI of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
+### 👋 My Role
+I conducted user research, and designed the user experience (UX) and user interface (UI) of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
 
 ---
-## The solution
+## The Solution
 
 The final solution is MyCrimson, a simple web app connecting to all of the other university apps. MyCrimson links out to other apps and pulls data from them into one place to organize into tasks to complete and notify students about deadlines and messages.
 
 ![1](/images/projects/mycrimson/home_-_desktop.png)
 
-### Academics at a glance
+### Academics at a Glance
 
 MyCrimson allows students to quickly access any app, internal or third party, that they need to manage their education. They can also view progress and deadlines for upcoming required tasks, and use a chatbot to access information in the university knowledgebase.
 
