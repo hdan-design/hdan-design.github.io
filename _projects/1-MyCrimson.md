@@ -23,7 +23,6 @@ A simple dashboard to connect all university resources and help students track a
 I conducted user research, and designed the user experience (UX) and user interface (UI) of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
 
 ---
-*Due to a Non-Disclosure Agreement, fictional company details and brand content are added for presentation purposes.*
 
 ## The Solution
 
