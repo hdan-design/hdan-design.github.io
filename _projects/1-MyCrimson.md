@@ -8,6 +8,7 @@ accent_color: '#5D4AD0'
 gallery_images:
 - mycrimson/cover4.jpg
 ---
+
 ## Overview
 
 > How might we help IUPUI students feel more confident and comfortable using university web tools to access important information and complete required tasks?
@@ -22,6 +23,8 @@ A simple dashboard to connect all university resources and help students track a
 I conducted user research, and designed the user experience (UX) and user interface (UI) of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
 
 ---
+*Due to a Non-Disclosure Agreement, fictional company details and brand content are added for presentation purposes.*
+
 ## The Solution
 
 The final solution is MyCrimson, a simple web app connecting to all of the other university apps. MyCrimson links out to other apps and pulls data from them into one place to organize into tasks to complete and notify students about deadlines and messages.
