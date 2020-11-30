@@ -13,13 +13,13 @@ gallery_images:
 
 > How might we help IUPUI students feel more confident and comfortable using university web tools to access important information and complete required tasks?
 
-### 💬 The Challenge
+### The Challenge
 University students have to navigate confusing systems of incompatible and inconsistent apps to manage their academics.
 
-### 💡 Our Solution
+### Our Solution
 A simple dashboard to connect all university resources and help students track and manage tasks across all apps.
 
-### 👋 My Role
+### My Role
 I conducted user research, and designed the user experience (UX) and user interface (UI) of the final solution. I worked together with another user researcher to conduct research and synthesize findings.
 
 ---
@@ -103,8 +103,6 @@ We conducted interviews with students and sent out surveys to hear students need
 
 Students are the main users of this product, so we have to make sure we understand how they handle their academic now and what opportunities there are to help them.
 
-> "I'm just trying find what I need and get my work done."
-
 ###### Goals:
 - Find the academic information and resources when they need them
 - Understand what tasks they have to complete, and when they're due
@@ -118,8 +116,6 @@ Students are the main users of this product, so we have to make sure we understa
 ##### Secondary
 
 Advisors are one of the main destinations for students with questions about university web tools. These apps aren't their expertise, and they have much bigger problems to help students with. Allowing students to be more self sufficient will let them focus their time and efforts.
-
-> "I want my students to be more self-sufficient, so I can focus on helping them with the big problems."
 
 ###### Goals:
 - To find the academic information and resources they're looking for

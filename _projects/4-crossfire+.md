@@ -13,13 +13,13 @@ gallery_images:
 
 > How might we help hospital teams monitor activity across a large scale IoT network?
 
-### 💬 The Challenge
+### The Challenge
 A hospital uses a network of smart devices, but has a hard time monitoring activity and access.
 
-### 💡 Our Solution
+### Our Solution
 An activity monitoring feature for their system, with simple search and filtering, and insights anyone on the team can understand.
 
-### 👋 My Role
+### My Role
 I worked with the client's engineering team, designing the user experience and user interface of the final solution.
 
 ---

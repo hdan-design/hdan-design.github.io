@@ -17,13 +17,13 @@ gallery_images:
 
 > How might we translate a powerful project management desktop platform to an easy to use mobile experience?
 
-### 💬 The Challenge
+### The Challenge
 The team at ProcessFlow wants to make their complex, desktop-first web app responsive for mobile devices, but doesn't know where to start.
 
-### 💡 Our Solution
+### Our Solution
 A targeted mobile experience allowing customers to focus on the features they normally need access to when on the go.
 
-### 👋 My Role
+### My Role
 I conducted user research, designed the user experience (UX) and user interface (UI) of the final solution, and conducted usability testing.
 
 ---
@@ -91,8 +91,6 @@ ProcessFlow was faced with trying to innovate without alienating their current c
 
 Project managers are the core users of the ProcessFlow platform. They oversee multiple construction projects and teams of potentially hundreds of people.
 
-> "If I'm away from my desk I just want a heads up if something's on fire."
-
 ###### Goals:
 - Observe a project's status when they're away from their desk
 - Find out when something is wrong without having to call someone to ask
@@ -105,8 +103,6 @@ Project managers are the core users of the ProcessFlow platform. They oversee mu
 ##### Secondary
 
 The Foremen are in charge of managing a specific construction site. Though they're not on ProcessFlow often, they find it useful for quickly finding documents, links, and contacts on while on the job.
-
-> "Honestly we're working with so many contractors I just need to know who's who."
 
 ###### Goals:
 - Contact their team members, and have easy access to everyone's information
