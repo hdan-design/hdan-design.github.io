@@ -9,7 +9,7 @@ My name is Henry Dan and I'm a User Experience (UX) and User Interface (UI) desi
 
 ## But here's what I'm not:
 
-### ▪️ Not a pixel pusher.
+### ▫️ Not a pixel pusher.
 
 Visual design is a huge part of what I do, but it is always in service of solving a problem and creating a better product. Design exists to align business goals, technical constraints, and user needs, not just to create pretty screens.
 

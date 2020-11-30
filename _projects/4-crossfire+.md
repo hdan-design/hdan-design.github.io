@@ -4,7 +4,7 @@ subtitle: Smart device system monitoring for hospital IT teams.
 date: 2019-07-24 00:00:00
 description: Supporting an engineering team by designing a feature for activity monitoring to help staff at a hospital monitor their Internet of Things network.
 featured_image: crossfire+/featured-image.jpg
-accent_color: '#5D4AD0'
+accent_color: '#EEB364'
 gallery_images:
 - crossfire+/crossfire+-cover.jpg
 ---

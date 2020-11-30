@@ -4,7 +4,7 @@ subtitle: Mobile project management for construction teams
 date: 2019-07-24 00:00:00
 description: Redesigning a focused mobile experience to better serve the users of a construction management platform.
 featured_image: processflow/construction2.jpg
-accent_color: '#5D4AD0'
+accent_color: '#7BBDFF'
 gallery_images:
 - processflow/process-cover.jpg
 ---

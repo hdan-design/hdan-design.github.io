@@ -4,7 +4,7 @@ subtitle: A simpler online experience for university students.
 date: 2019-07-24 00:00:00
 description: A research and design project focused on connecting a wide range of university web tools, allowing students to take more control over their academics.
 featured_image: mycrimson/University_Students.jpg
-accent_color: '#5D4AD0'
+accent_color: '#BAA9F3'
 gallery_images:
 - mycrimson/mycrimson-cover.jpg
 ---
