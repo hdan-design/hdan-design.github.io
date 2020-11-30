@@ -1,13 +1,11 @@
 ---
-title: Here's who I am
+title: Who I am
 subtitle: ... and who I'm not
 ---
 
-![Me](/images/about/about9.jpg)
+![Me](/images/about/about.jpg)
 
-My name is Henry Dan and I'm a Digital Product Designer, creating user experiences (UX) and user interfaces (UI) for apps and websites. I'm currently located in Indianapolis, Indiana (EST) and working remotely. Outside of design I like to ride my bike around the city, go hiking, and make [3D voxel art](https://art.henrydan.me/), and I have a cat named Bebe with no regard for personal space.
-
----
+My name is Henry Dan and I'm a User Experience (UX) and User Interface (UI) designer and researcher based in Indianapolis and working remotely.
 
 ## But here's what I'm not:
 
@@ -35,6 +33,6 @@ Design is about making useful things for real people. We are responsible for the
 
 ---
 ## Sound like someone you could work with?
-### [hello@henrydan.me](mailto:hello@henrydan.me)
+### [Let's talk ➞](https://calendly.com/henrydan/design-help)
 
 ---

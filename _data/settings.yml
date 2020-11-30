@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:   
-    - title: 'Projects'
+    - title: 'My Work'
       url: '/'
     # - title: 'Freebies'
     #   url: '/Services'

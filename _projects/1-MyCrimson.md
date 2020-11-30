@@ -6,7 +6,7 @@ description: A research and design project focused on connecting a wide range of
 featured_image: mycrimson/University_Students.jpg
 accent_color: '#5D4AD0'
 gallery_images:
-- mycrimson/cover4.jpg
+- mycrimson/mycrimson-cover.jpg
 ---
 
 ## Overview
@@ -32,7 +32,7 @@ The final solution is MyCrimson, a simple web app connecting to all of the other
 
 ### Academics at a Glance
 
-MyCrimson allows students to quickly access any app, internal or third party, that they need to manage their education. They can also view progress and deadlines for upcoming required tasks, and use a chatbot to access information in the university knowledgebase.
+MyCrimson allows students to quickly access any app, internal or third party, that they need to manage their education. They can also view progress and deadlines for upcoming required tasks, and use a chatbot to access information in the university knowledge base.
 
 ![2](/images/projects/mycrimson/View_app.png)
 
@@ -154,12 +154,16 @@ We wanted to make sure our solution was feasible to build, so we considered tech
 
 ## Conclusion
 
-### Learnings
+### Takeaways
 
-This project was a great learning experience in understanding the impact that bureaucracy can have on constraining software systems. It was helpful to learn more about how business operations impact everything from software acquisitions and development to general innovation thinking.
+The client was pleased with our solution, and We received positive responses from the students and advisors we tested with, as well as the university IT teams who would be responsible for development and management of the platform. While our solution couldn't improve usability for third party apps, we were able to find a way to provide a cohesive core experience and achieve our core goals of student confidence and independence.
 
-### What would I improve if I had more time?
+### Outcomes
 
-We went to a great effort to plan a solution that met technical requirements, but the university wasn't interested in pursuing our concept. Given more time, I would like to continue the conversation with the university to better understand what we could change to make this project concept viable to them.
+Though the board elected not to move forward with this project due to funding issues, the client has since utilized our research data for other internal student-focused software projects. Our findings have also helped them to hire staff UI and UX designers to help improve the usability and accessibility of their internally developed web tools.
 
-Since this project the university has created a user experience team and expressed an interest in accessibility considerations in their software. I think this would lead to good opportunities for collaboration for a project like this. I would love to help them as they continue to innovate and improve.
+---
+
+# [Next project →](2-processflow)
+
+---
