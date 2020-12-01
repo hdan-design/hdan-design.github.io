@@ -18,10 +18,10 @@ gallery_images:
 > How might we translate a powerful project management desktop platform to an easy to use mobile experience?
 
 ### The Challenge
-The team at ProcessFlow wants to make their complex, desktop-first web app responsive for mobile devices, but doesn't know where to start.
+ProcessFlow is a powerful desktop app that users love, but is challenging to use on mobile devices.
 
 ### Our Solution
-A targeted mobile experience allowing customers to focus on the features they normally need access to when on the go.
+A targeted mobile experience allowing customers to focus on the features they normally need access to when on the go, without slowing them down.
 
 ### My Role
 I conducted user research, designed the user experience (UX) and user interface (UI) of the final solution, and conducted usability testing.
@@ -137,6 +137,6 @@ We achieved our core goals, helping ProcessFlow build a mobile experience that b
 
 ---
 
-# [Next project →](4-crossfire+)
+# [Next project →](4-crossfire)
 
 ---

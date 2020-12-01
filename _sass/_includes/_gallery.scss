@@ -116,7 +116,7 @@
 
   &[data-columns="4"] {
     .gallery__item {
-      width: 33.33%;
+      width: 50%;
     }
 
     @include mq(tabletp) {

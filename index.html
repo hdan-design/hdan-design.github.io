@@ -59,6 +59,15 @@ featured_image: /images/social.jpg
 			</article>
 
 			{% endfor %}
+			<h3 class="project__title">Projects I can't share (yet)</h3>
+			<p class="project__description"><br>These are UX & UI design projects that are either in progress, or are currently covered by a non-disclosure agreement. They've been great to work on, and hopefully I will get to share them on here soon! </p>
+			{% include post-components/gallery.html
+				columns = 4
+				full_width = true
+				images = "/images/NDA/data.jpg,/images/NDA/politics.jpg,/images/NDA/health.jpg,/images/NDA/trucks.jpg,
+				"
+			%}
+			</div>
 		</div>
 	</section>
 

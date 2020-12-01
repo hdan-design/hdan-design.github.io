@@ -1,6 +1,6 @@
 ---
 title: MyCrimson
-subtitle: A simpler online experience for university students.
+subtitle: A simpler online experience for university students
 date: 2019-07-24 00:00:00
 description: A research and design project focused on connecting a wide range of university web tools, allowing students to take more control over their academics.
 featured_image: mycrimson/University_Students.jpg
@@ -50,13 +50,13 @@ We want students to feel in control of their education, and build a clearer ment
 
 There's a lot of important tasks students need to take care of over the course of their college experience, like registering for classes, accepting scholarships, and filling out forms.
 
-Apps can help students complete these tasks, but Task lists clarify what is expected of them and make sure they're getting everything done that they need to.
+Apps can help students complete these tasks, but Task Lists clarify what is expected of them and make sure they're getting everything done that they need to.
 
 ![4](/images/projects/mycrimson/Search.png)
 
 ### Quick search
 
-We help students quickly find exactly what they're looking for, even if they don't know exactly what they're looking for.
+We help students quickly find what they need, even if they don't know exactly what they're looking for.
 
 This new search helps students understand the functionality of each app, what problems it will solve for them, and what to expect when they open it.
 
@@ -64,7 +64,7 @@ This new search helps students understand the functionality of each app, what pr
 
 ### Every message in one place
 
-MyCrimson gives you one unified inbox to track all communication you receive from your university, whether through your university email, personal email, or tools like Blackboard and Canvas. No more jumping back and forth between different apps, or forwarding everything to the one email you actually check.
+MyCrimson gives you one unified inbox to track all communication you receive from your university, whether through your university email, personal email, or tools like Blackboard and Canvas. No more jumping back and forth between different apps, or forwarding everything to the one email account that you actually check.
 
 ![6](/images/projects/mycrimson/Notifications.png)
 
