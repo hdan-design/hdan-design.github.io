@@ -14,7 +14,7 @@ gallery_images:
 	Due to a non-disclosure agreement, fictional brand content is added for presentation purposes.
 </div>
 
-![title](/images/projects/alunne/app-feature.png)
+![title](/images/projects/Alunne/app-feature.png)
 
 ## Project Brief
 
