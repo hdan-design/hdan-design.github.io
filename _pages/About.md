@@ -2,9 +2,7 @@
 title: Who I am
 subtitle: ... and who I'm not
 ---
-
-![Me](/images/about/about.jpg)
-
+---
 My name is Henry Dan and I'm a User Experience (UX) and User Interface (UI) designer and researcher based in Indianapolis and working remotely.
 
 ## But here's what I'm not:

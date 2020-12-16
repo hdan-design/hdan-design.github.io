@@ -2,14 +2,6 @@
   {% if include.divider == true %}
     <div class="wrap"><hr/></div>
     {% endif %}
-  <div class="wrap grid">
-
-    <div class="about__image">
-      <img src="{{ '/images/profile.png' | relative_url }}" alt="headshot of a man in a black shirt">
-
-      {% include component-socials.html %}
-    </div>
-
     <div class="about__content">
       <h2 class="title">Henry Dan</h2>
       <p class="subtitle">UX & UI Designer</p>
@@ -20,5 +12,10 @@
 
       <a href="https://calendly.com/henrydan/design-help" class="header__cta button--fill">Let's Talk</a>
     </div>
-  </div>
+       <!-- <div class="about__image">
+      <img src="{{ '/images/profile.png' | relative_url }}" alt="headshot of a man in a black shirt">
+
+      {% include component-socials.html %}
+    </div> -->
+
 </section>

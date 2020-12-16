@@ -12,9 +12,10 @@
   }
 
   .about__image {
+    height: 400px;
     width: 100%;
     margin: 0 0 40px 0;
-    max-width: 420px;
+    max-width: 360px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -30,6 +31,8 @@
 
   .about__content {
     max-width: 456px;
+    margin: 0 auto;
+
 
     .title {
       margin-bottom: 16px;
@@ -60,9 +63,14 @@
       grid-template-columns: 1fr 1fr;
     }
 
+// Added custom flexbox CSS to hide the profile image space
+
     .about__image {
       width: 100%;
       margin-left: 0;
+      display: flex;
+  flex-direction: column;
+  justify-content: center;
 		}
 		
 		.about__content {
@@ -97,11 +105,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 26px;
-  height: 26px;
+  width: 52px;
+  height: 52px;
   border-radius: 100%;
   background: $text-dark-color;
-  font-size: 16px;
+  font-size: 32px;
   color: $background-color;
 
   &:hover {
