@@ -35,25 +35,25 @@ I was hired by a university to prototype and concept test an app that would unif
 
 *Students can access any app they use day to day, and view all of their tasks and notifications in one place. A chatbot and knowledgebase help answer any questions they have.*
 
-<iframe src="https://player.vimeo.com/video/491679162?background=true" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/491679162" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Task Management
 
 *Tasks and deadlines are tracked across all external apps, accessible from a calendar view. Each task links out to the relevant app.*
 
-<iframe src="https://player.vimeo.com/video/491679153?background=true" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/491679153" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Help
 
 *Students can interact with a chatbot to get assistance completing tasks and ask general questions about the app. They also have access to reference guides, and the ability to search app-wide.*
 
-<iframe src="https://player.vimeo.com/video/491679163?background=true" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/491679163" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Onboarding
 
 *Onboarding slides with custom illustrations provide clarity and a simple introduction to the app.*
 
-<iframe src="https://player.vimeo.com/video/491679169?background=true" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/491679169" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### Research Methods
 
