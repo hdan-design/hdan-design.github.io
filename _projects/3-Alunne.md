@@ -67,7 +67,7 @@ I was hired by a university to prototype and concept test an app that would unif
 
 {% include post-components/gallery.html
 	columns = 2
-	images = "/images/projects/Alunne/screens/home-full.png,/images/projects/Alunne/screens/schedule-week.png,/images/projects/Alunne/screens/apps.png,/images/projects/Alunne/screens/help-assistant.png,
+	images = "/images/projects/Alunne/screens/home-full.png,/images/projects/Alunne/screens/schedule-week.png,/images/projects/Alunne/screens/apps.png,/images/projects/Alunne/screens/Help-assistant.png,
 	"
 %}
 
