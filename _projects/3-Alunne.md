@@ -1,8 +1,8 @@
 ---
 title: Alunne
-subtitle: A unified online experience for college students
+subtitle: A unified university experience
 date: 2019-07-24 00:00:00
-description: I saved a university time and money by prototyping and concept testing and innovative app for managing academics across hundreds of third party web tools.
+description: I saved a university time and money by prototyping and concept testing a mobile app for students to manage their education across multiple external web tools.
 featured_image: Alunne/hero1.jpg
 accent_color: '#7AC1FF'
 gallery_images:
