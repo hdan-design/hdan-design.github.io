@@ -33,7 +33,7 @@ I was hired by a university to prototype and concept test an app that would unif
 </div>
 <br>
 
-<iframe src="https://player.vimeo.com/video/495304907?background=1" width="640" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/495304907" width="640" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ### App Overview
 
@@ -75,18 +75,16 @@ I was hired by a university to prototype and concept test an app that would unif
 	"
 %}
 
-### Process
-
-{% include post-components/gallery.html
-	columns = 2
-	images = "/images/projects/Alunne/screens/home-full.png,/images/projects/Alunne/screens/schedule-week.png,/images/projects/Alunne/screens/apps.png,/images/projects/Alunne/screens/Help-assistant.png,
-	"
-%}
-
 ## Project Outcomes
 
 {% include post-components/details-alunne.html %}
 
+---
+
+<br>
+
 <div style="text-decoration: underline;">
-	<h2><a href="/project/4-crossfire">Next project</a></h2>
+	<h1><a href="/project/4-crossfire">Next project</a></h1>
 </div>
+
+<br>
