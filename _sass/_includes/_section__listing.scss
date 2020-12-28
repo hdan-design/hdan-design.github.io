@@ -170,6 +170,9 @@
   .project__subtitle,
   .project__description {
     max-width: 456px;
+    @include mq(mobile) {
+      max-width: 100%;
+    }
   }
 
   .project__subtitle {
