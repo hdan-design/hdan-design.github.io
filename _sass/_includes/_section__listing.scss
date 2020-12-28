@@ -31,12 +31,19 @@
   }
 
   .project__images {
+    transition: .2s;
     position: relative;
     margin-bottom: 50px;
+    margin-top: 0px;
 
     .owl-stage-outer {
       overflow: visible;
     }
+  }
+
+  .project__images:hover {
+    transition: .2s;
+    margin-top: -10px;
   }
 
   .owl-dots {
