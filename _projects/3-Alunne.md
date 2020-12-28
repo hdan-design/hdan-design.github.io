@@ -33,6 +33,10 @@ I was hired by a university to prototype and concept test an app that would unif
 </div>
 <br>
 
+<iframe src="https://player.vimeo.com/video/495304907?background=1" width="640" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### App Overview
+
 *Students can access any app they use day to day, and view all of their tasks and notifications in one place. A chatbot and knowledgebase help answer any questions they have.*
 
 <iframe src="https://player.vimeo.com/video/491679162" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -83,6 +87,6 @@ I was hired by a university to prototype and concept test an app that would unif
 
 {% include post-components/details-alunne.html %}
 
----
-
-## [Next project ➜](4-crossfire)
+<div style="text-decoration: underline;">
+	<h2><a href="/project/4-crossfire">Next project</a></h2>
+</div>
