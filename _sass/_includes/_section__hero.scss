@@ -24,10 +24,12 @@
 	}
 
 	.intro {
-		padding-left: 36px;
 		line-height: px;;
 		position: relative;
 		max-width: 340px;
+		@include mq(laptop) {
+			padding-left: 36px;
+		}
 	}
 
 	.hero__cta {
