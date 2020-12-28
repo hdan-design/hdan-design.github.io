@@ -1,14 +1,16 @@
 ---
 layout: default
-overtitle: I'm a UX & UI Designer
+overtitle: I'm a Digital Product Designer
+title: I make complexity user-friendly
+description: By focusing on your business' unique technology, constraints, and goals I'll help you craft products that your customers will love to come back to.
+featured_image: /images/social.jpg
+<!-- description: By focusing on collaboration, research, and iteration I help brands create digital experiences that customers love to use. -->
+<!-- overtitle: I'm a UX & UI Designer -->
 <!-- title: I solve business problems & bring big ideas to life -->
 <!-- title: I help businesses solve problems, connect with users, & test new ideas. -->
 <!-- title: I solve business problems and test new ideas -->
-title: I visualize and validate big ideas
 <!-- description: I work with companies like yours to design digital experiences that your customers will love to use, day after day. -->
 <!-- description: I partner with companies like yours to design digital experiences that are intuitive, accessible, and memorable. -->
-description: By focusing on collaboration, research, and iteration I help brands create digital experiences that customers love to use.
-featured_image: /images/social.jpg
 ---
 
 <div class="page-home">
@@ -40,33 +42,35 @@ featured_image: /images/social.jpg
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
 			<article class="project__preview">
-				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
-
-				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
-					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
-					{% endfor %}
-				</div>
-
 				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle">{{ project.subtitle }}</p>
-					<p class="project__description">
-						{{ project.description }}
-						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
-					</p>
+					<div>
+						<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+							{% for image in project.gallery_images %}
+							<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+							{% endfor %}
+						</div>
+					</div>
+					<div>
+						<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+						<p class="project__subtitle subtitle">{{ project.subtitle }}</p>
+						<p class="project__description">
+							{{ project.description }}
+							<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
+								style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
+						</p>
+					</div>
 				</div>
 			</article>
 
 			{% endfor %}
-			<h3 class="project__title">Projects I can't share (yet)</h3>
+			<!-- <h3 class="project__title">Projects I can't share (yet)</h3>
 			<p class="project__description"><br>These are UX & UI design projects that are either in progress, or are currently covered by a non-disclosure agreement. They've been great to work on, and hopefully I will get to share them on here soon! </p>
 			{% include post-components/gallery.html
 				columns = 4
 				full_width = true
 				images = "/images/NDA/data.jpg,/images/NDA/politics.jpg,/images/NDA/health.jpg,/images/NDA/trucks.jpg,
 				"
-			%}
+			%} -->
 			</div>
 		</div>
 	</section>

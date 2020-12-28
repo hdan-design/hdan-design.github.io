@@ -1,8 +1,8 @@
 ---
 title: Alunne
-subtitle: A unified university experience
+subtitle: Simple, scalable academic management for higher education students
 date: 2019-07-24 00:00:00
-description: I saved a university time and money by prototyping and concept testing a mobile app for students to manage their education across multiple external web tools.
+description: I helped a university secure funding and save money by prototyping and concept testing a mobile app to help their students manage their own education.
 featured_image: Alunne/hero1.jpg
 accent_color: '#7AC1FF'
 gallery_images:
@@ -64,6 +64,14 @@ I was hired by a university to prototype and concept test an app that would unif
 %}
 
 ### Design Gallery
+
+{% include post-components/gallery.html
+	columns = 2
+	images = "/images/projects/Alunne/screens/home-full.png,/images/projects/Alunne/screens/schedule-week.png,/images/projects/Alunne/screens/apps.png,/images/projects/Alunne/screens/Help-assistant.png,
+	"
+%}
+
+### Process
 
 {% include post-components/gallery.html
 	columns = 2

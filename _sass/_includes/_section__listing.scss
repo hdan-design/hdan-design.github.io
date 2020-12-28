@@ -18,7 +18,9 @@
   }
 
   .project__title {
-    margin-bottom: 32px;
+    // margin-bottom: 32px;
+    margin-bottom: 16px;
+
 
     a {
 
@@ -161,7 +163,7 @@
 
   .project__content {
     padding-bottom: 40px;
-    border-bottom: 2px solid $text-dark-color;
+    // border-bottom: 2px solid $text-dark-color;
     grid-gap: 0;
   }
 
@@ -171,6 +173,7 @@
   }
 
   .project__subtitle {
+    font-weight: 500;
     margin-bottom: 16px;
   }
 
@@ -202,7 +205,7 @@
     }
 
     .project__title {
-      margin-bottom: 48px;
+      // margin-bottom: 48px;
     }
 
     .project__content {
@@ -212,3 +215,15 @@
     }
   }
 }
+
+.project__content {
+  margin-bottom: 400px;
+}
+
+// .project__title {
+//   text-align: right;
+// }
+
+// .project__subtitle {
+//   text-align: right;
+// }

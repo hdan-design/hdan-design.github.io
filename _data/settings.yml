@@ -8,8 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:   
-    # - title: 'Work'
-    #   url: '/'
+    - title: 'Statistics-HQ'
+      url: '/project/1-processflow'
+    - title: 'Allune'
+      url: '/project/3-alunne'
+    - title: 'Enhale'
+      url: '/project/1-processflow'
     # - title: 'Services'
     #   url: '/services'
 
@@ -88,11 +92,12 @@ color_settings:
   # error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet">'
+  # font_embed: '<link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@400;500;700&family=Ubuntu:wght@400;500;700&display=swap" rel="stylesheet">'
   # font_embed: '<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700&family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">'
   # font_embed: '<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;700&family=Castoro&display=swap" rel="stylesheet">'
-  title_font: 'Ubuntu, sans-serif'
-  body_font: 'Ubuntu, sans-serif'
+  title_font: '"IBM Plex Serif", serif'
+  body_font: '"IBM Plex Sans", sans-serif'
 
   regular_weight: 400
   bold_weight: 700
