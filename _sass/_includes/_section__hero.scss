@@ -28,7 +28,7 @@
 		position: relative;
 		max-width: 340px;
 		@include mq(laptop) {
-			padding-left: 36px;
+			margin: -220px;
 		}
 	}
 

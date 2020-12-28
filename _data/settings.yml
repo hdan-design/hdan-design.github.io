@@ -8,10 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:   
-    - title: 'Statistics-HQ'
-      url: '/project/1-processflow'
     - title: 'Allune'
       url: '/project/3-alunne'
+    - title: 'Statistics HQ'
+      url: '/project/1-processflow'
     - title: 'Enhale'
       url: '/project/1-processflow'
     # - title: 'Services'

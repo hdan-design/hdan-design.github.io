@@ -1,8 +1,8 @@
 ---
 layout: default
-overtitle: I'm a Digital Product Designer
-title: I make complexity user-friendly
-description: By focusing on your business' unique technology, constraints, and goals I'll help you craft products that your customers will love to come back to.
+overtitle: I'm a Digital Product Designer.
+title: I make innovation easy to use.
+description: I focus on your business' unique technology, constraints, and goals to help you craft products your customers will love to come back to.
 featured_image: /images/social.jpg
 <!-- description: By focusing on collaboration, research, and iteration I help brands create digital experiences that customers love to use. -->
 <!-- overtitle: I'm a UX & UI Designer -->
@@ -43,13 +43,11 @@ featured_image: /images/social.jpg
 
 			<article class="project__preview">
 				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<div>
 						<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 							{% for image in project.gallery_images %}
 							<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 							{% endfor %}
 						</div>
-					</div>
 					<div>
 						<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
 						<p class="project__subtitle subtitle">{{ project.subtitle }}</p>
