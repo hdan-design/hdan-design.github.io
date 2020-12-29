@@ -54,7 +54,7 @@
 	}
 	
 
-  @include mq(tabletp) {
+  @include mq(mobile) {
     margin-bottom: 300px;
     
     hr {
