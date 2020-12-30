@@ -35,25 +35,25 @@ I was hired by a university to prototype and concept test an app that would unif
 
 <iframe src="https://player.vimeo.com/video/495304907" width="640" height="500" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### App Overview
+## App Overview
 
 *Students can access any app they use day to day, and view all of their tasks and notifications in one place. A chatbot and knowledgebase help answer any questions they have.*
 
 <iframe src="https://player.vimeo.com/video/491679162" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Task Management
+## Task Management
 
 *Tasks and deadlines are tracked across all external apps, accessible from a calendar view. Each task links out to the relevant app.*
 
 <iframe src="https://player.vimeo.com/video/491679153" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Help
+## Help Resources
 
 *Students can interact with a chatbot to get assistance completing tasks and ask general questions about the app. They also have access to reference guides, and the ability to search app-wide.*
 
 <iframe src="https://player.vimeo.com/video/491679163" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### Onboarding
+## Onboarding Process
 
 *Onboarding slides with custom illustrations provide clarity and a simple introduction to the app.*
 
@@ -75,16 +75,20 @@ I was hired by a university to prototype and concept test an app that would unif
 	"
 %}
 
-## Project Outcomes
+### Project Outcomes
 
 {% include post-components/details-alunne.html %}
 
----
+### What's Next?
+
+The client presented the prototype and research findings to their board and secured funding to move forward with software development. In addition, this prototype also helped them secure funding to form an internal User Interface team to continue building products like this and build consistent user experiences across their entire platform.
 
 <br>
 
 <div style="text-decoration: underline;">
-	<h1><a href="/project/4-crossfire">Next project</a></h1>
+	<h3><a href="/project/4-crossfire">Next Project</a></h3>
 </div>
 
 <br>
+
+---
