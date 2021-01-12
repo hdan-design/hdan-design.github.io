@@ -59,7 +59,7 @@ I was hired by a university to prototype and concept test an app that would unif
 <br>
 
 <div style="text-decoration: underline;">
-	<h3><a href="/project/4-StatisticsHQ">Next Project</a></h3>
+	<h3><a href="/project/4-statisticshq">Next Project</a></h3>
 </div>
 
 <br>
