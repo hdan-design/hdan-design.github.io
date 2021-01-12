@@ -11,9 +11,9 @@ menu_settings:
     - title: 'Allune'
       url: '/project/3-alunne'
     - title: 'Statistics HQ'
-      url: '/project/1-processflow'
+      url: '/project/4-statisticshq'
     - title: 'Enhale'
-      url: '/project/1-processflow'
+      url: '/project/5-enhale'
     # - title: 'Services'
     #   url: '/services'
 
