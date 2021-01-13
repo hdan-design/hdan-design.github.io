@@ -8,14 +8,18 @@ header_settings:
 
 menu_settings:
   menu_items:   
+    # - title: 'Projects'
+    #   url: '/'
+    # - title: 'Services'
+    #   url: '/project/5-enhale'
+    # - title: 'UX out loud'
+    #   url: '/project/4-statisticshq'
     - title: 'Allune'
       url: '/project/3-alunne'
     - title: 'Statistics HQ'
       url: '/project/4-statisticshq'
     - title: 'Enhale'
       url: '/project/5-enhale'
-    # - title: 'Services'
-    #   url: '/services'
 
 footer_settings:
   logo_image: 
@@ -205,7 +209,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "G-F0ZYLGRQB0"
+  # analytics_code: "G-F0ZYLGRQB0"
   custom_styles: ""
   header_js: ""
   footer_js: ""
