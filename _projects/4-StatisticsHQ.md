@@ -10,11 +10,12 @@ gallery_images:
 ---
 
 <br>
-<div style="text-align: center; font-style: italic;">
-	Due to a non-disclosure agreement, fictional brand content is added for presentation purposes.
-</div>
 
 ![title](/images/projects/statisticsHQ/4.png)
+
+<div style="opacity: 50%; text-align: center; font-style: italic;">
+	Due to a non-disclosure agreement, fictional brand content is added for presentation purposes.
+</div>
 
 ## Project Brief
 
