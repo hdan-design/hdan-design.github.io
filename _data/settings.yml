@@ -8,18 +8,19 @@ header_settings:
 
 menu_settings:
   menu_items:   
-    # - title: 'Projects'
+    # - title: 'My work'
     #   url: '/'
     # - title: 'Services'
     #   url: '/project/5-enhale'
-    # - title: 'UX out loud'
-    #   url: '/project/4-statisticshq'
+    # - title: 'Product in progress'
+    #   url: '/blog'
     - title: 'Allune'
       url: '/project/3-alunne'
     - title: 'Statistics HQ'
       url: '/project/4-statisticshq'
     - title: 'Enhale'
       url: '/project/5-enhale'
+    
 
 footer_settings:
   logo_image: 
@@ -172,14 +173,14 @@ font_settings:
     line_height: 32
     line_height_small: 28
   p:
-    size: 18
+    size: 22
     size_small: 17
     weight: 400
     letter_spacing: 0.04
     letter_spacing_small: 0
-    line_height: 32
+    line_height: 36
   p_small:
-    size: 16
+    size: 18
     size_small: 15
     weight: 400
     letter_spacing: 0
@@ -209,7 +210,15 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  # analytics_code: "G-F0ZYLGRQB0"
+  analytics_code: |
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F0ZYLGRQB0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-F0ZYLGRQB0');
+    </script>
   custom_styles: ""
   header_js: ""
   footer_js: ""
