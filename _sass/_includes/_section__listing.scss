@@ -30,20 +30,19 @@
     }
   }
 
-  .project__content img {
+  .project__image {
     transition: .2s;
     position: relative;
-    margin-bottom: 50px;
-    margin-top: 0px;
+    transform: initial;    
 
     .owl-stage-outer {
       overflow: visible;
     }
   }
 
-  .project__content img:hover {
+  .project__image:hover {
     transition: .2s;
-    margin-top: -10px;
+    transform: translateY(-10px);
   }
 
   .owl-dots {
