@@ -42,8 +42,8 @@ featured_image: /images/social.jpg
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
 			<article class="project__preview">
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-						<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
+				<div class="project__content" style="border-color: {{ accent_color }}">
+						<div>
 							{% for image in project.gallery_images %}
 							<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 							{% endfor %}

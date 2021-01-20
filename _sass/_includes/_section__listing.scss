@@ -30,7 +30,7 @@
     }
   }
 
-  .project__images {
+  .project__content img {
     transition: .2s;
     position: relative;
     margin-bottom: 50px;
@@ -41,7 +41,7 @@
     }
   }
 
-  .project__images:hover {
+  .project__content img:hover {
     transition: .2s;
     margin-top: -10px;
   }
@@ -222,6 +222,13 @@
       grid-template-columns: 1fr 1fr;
       grid-gap: 30px;
       padding-bottom: 72px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      // justify-content: center;
+    }
+    .project__content img {
+      max-width: 40vw;
     }
   }
 }
