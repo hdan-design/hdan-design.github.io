@@ -21,8 +21,6 @@ gallery_images:
 
 I was hired by a university to prototype and concept test an app that would unify their wide network of third party academic apps into one branded student experience. This prototype would help them test their concept with real users, and present to their board of directors to secure funding for further developing the app.
 
-## Project Outcomes
-
 {% include post-components/details-alunne.html %}
 
 ## The Solution

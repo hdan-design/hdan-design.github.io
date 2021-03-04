@@ -21,8 +21,6 @@ gallery_images:
 
 StatisticsHQ is a dashboard for viewing live corporate travel data and gathering actionable insights to influence policy changes and decision making. They approached me to help them redesign their platform to support new features including a marketplace for sharing user-generated content and improved customizability. They also needed help making the platform responsive, and creating a design system to support their development team.
 
-## Project Outcomes
-
 {% include post-components/details-stat.html %}
 
 ## The Solution

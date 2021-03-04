@@ -17,8 +17,6 @@ gallery_images:
 
 Enhale is a startup building a smart inhaler that will allow people with asthma and parents of children with asthma to monitor their intake of prescription medicine and share usage data with their physician. They hired me to design an app to sync with and manage their smart inhaler, and work with their developer to build a functional prototype.
 
-## Project Outcomes
-
 {% include post-components/details-enhale.html %}
 
 ## The Solution
